@@ -1,14 +1,6 @@
 Power to the Profile Site
 
-A Full site built to show the work on our CI challenge project 
-
-Project
-https://maestro.dhs.gov/confluence/display/VAM/Power+to+the+Profile 
-
-
-Repo
-https://git.uscis.dhs.gov/USCIS/CI6-Power-To-The_Profile 
-
+A Full site built to show the work on our Power to the profile repo code and templates
 
 Credits:
 
